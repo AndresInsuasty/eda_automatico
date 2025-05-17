@@ -4,3 +4,4 @@ pandas==2.2.3
 openpyxl
 xlrd
 sweetviz
+numpy==1.24
