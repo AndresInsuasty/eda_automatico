@@ -3,3 +3,4 @@ ydata-profiling==4.16.1
 pandas==2.2.3
 openpyxl
 xlrd
+sweetviz
