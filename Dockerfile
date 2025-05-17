@@ -9,6 +9,8 @@ WORKDIR /app
 # Si no tienes requirements.txt, puedes eliminar esa línea e instalar con pip directamente
 COPY requirements.txt ./
 COPY app.py ./
+COPY .streamlit/ ./.streamlit/
+COPY logo.png ./
 
 # Instala dependencias sin cache para mantener la imagen ligera
 RUN pip install --no-cache-dir -r requirements.txt
