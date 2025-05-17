@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#800080"      # Morado principal
+backgroundColor = "#f3e6fa"   # Fondo claro morado
+secondaryBackgroundColor = "#e0c3fc" # Fondo secundario morado
+textColor = "#2d0036"         # Texto oscuro morado
+font = "sans serif"
